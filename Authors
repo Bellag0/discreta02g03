@@ -1,0 +1,15 @@
+Trabalho de Matematica Discreta
+Turma: "DR"
+
+Criar um tipo abstrato de dado que suporte um inteiro de 128 bits sem sinal;
+Com esse tipo de dado, criar uma função que verifique se 18446744073709551617 é um numero primo;
+
+GRUPO 3( discreta02g03 ):
+
+     Cleomenes Bezerra Ferreira Junior;
+     Rodrigo Juliani Barbosa;
+     Jose Sidney Narciso Da Silva;
+     Guilherme Dias de Andrade Lima;
+     Kewin Lima Da Silva;
+     Isabella Vitoria Galvao dos Santos;
+     Igor Rego Barros De Santana;
